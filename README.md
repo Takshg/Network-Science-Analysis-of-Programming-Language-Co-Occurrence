@@ -3,7 +3,10 @@
 This project was created for the COSC 421 (Network Science) course at UBC Okanagan. It explores social network structures using Natural Language Processing (NLP) to extract relationships from job description datasets (textual data) and builds network graphs to analyze interactions and patterns.
 
 View an interactive visualization [here](https://takshg.github.io/Network-Science-Analysis-of-Programming-Language-Co-Occurrence/)
-**Hover over a programming language to see which fields it is linked to and hover over a field to see all programming languages linked to it**
+
+**Hover over a programming language to see which fields it is linked to.**
+
+**Hover over a field to see all programming languages linked to it.**
 
 ## 📌 Project Overview
 
